@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{34DD8F8C-3062-4482-AD10-C571F61A49D8}</ProjectGuid>
+    <ProjectGuid>{4DCD6614-02A2-4D6C-B400-901827D3BF37}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>LabNo3CyclesandPointersPak</RootNamespace>
+    <RootNamespace>LabNo3TaskforthPak</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -154,7 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lab_No3_Cycles_and_Pointers_Pak.cpp" />
+    <ClCompile Include="Lab_No3_Task_forth_Pak.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
