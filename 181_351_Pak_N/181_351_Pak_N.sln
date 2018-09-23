@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_No3_Task_third_Pak", "L
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_No3_Task_forth_Pak", "Lab_No3_Task_forth_Pak\Lab_No3_Task_forth_Pak.vcxproj", "{4DCD6614-02A2-4D6C-B400-901827D3BF37}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_NoX_arrays_Pak", "Lab_NoX_arrays_Pak\Lab_NoX_arrays_Pak.vcxproj", "{E049F0BD-ECCF-4815-BA11-4C8EFE1E713F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{4DCD6614-02A2-4D6C-B400-901827D3BF37}.Release|x64.Build.0 = Release|x64
 		{4DCD6614-02A2-4D6C-B400-901827D3BF37}.Release|x86.ActiveCfg = Release|Win32
 		{4DCD6614-02A2-4D6C-B400-901827D3BF37}.Release|x86.Build.0 = Release|Win32
+		{E049F0BD-ECCF-4815-BA11-4C8EFE1E713F}.Debug|x64.ActiveCfg = Debug|x64
+		{E049F0BD-ECCF-4815-BA11-4C8EFE1E713F}.Debug|x64.Build.0 = Debug|x64
+		{E049F0BD-ECCF-4815-BA11-4C8EFE1E713F}.Debug|x86.ActiveCfg = Debug|Win32
+		{E049F0BD-ECCF-4815-BA11-4C8EFE1E713F}.Debug|x86.Build.0 = Debug|Win32
+		{E049F0BD-ECCF-4815-BA11-4C8EFE1E713F}.Release|x64.ActiveCfg = Release|x64
+		{E049F0BD-ECCF-4815-BA11-4C8EFE1E713F}.Release|x64.Build.0 = Release|x64
+		{E049F0BD-ECCF-4815-BA11-4C8EFE1E713F}.Release|x86.ActiveCfg = Release|Win32
+		{E049F0BD-ECCF-4815-BA11-4C8EFE1E713F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
