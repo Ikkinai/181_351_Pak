@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_No5_class", "Lab_No5_cl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_No6_Pak_nasledovanie", "Lab_No6_Pak_nasledovanie\Lab_No6_Pak_nasledovanie.vcxproj", "{56E713AF-4913-4E01-B22D-A4FF421E565C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_No7_dynamic_mem", "Lab_No7_dynamic_mem\Lab_No7_dynamic_mem.vcxproj", "{222DDB25-305C-44B7-81CE-5B5DD6F1E473}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{56E713AF-4913-4E01-B22D-A4FF421E565C}.Release|x64.Build.0 = Release|x64
 		{56E713AF-4913-4E01-B22D-A4FF421E565C}.Release|x86.ActiveCfg = Release|Win32
 		{56E713AF-4913-4E01-B22D-A4FF421E565C}.Release|x86.Build.0 = Release|Win32
+		{222DDB25-305C-44B7-81CE-5B5DD6F1E473}.Debug|x64.ActiveCfg = Debug|x64
+		{222DDB25-305C-44B7-81CE-5B5DD6F1E473}.Debug|x64.Build.0 = Debug|x64
+		{222DDB25-305C-44B7-81CE-5B5DD6F1E473}.Debug|x86.ActiveCfg = Debug|Win32
+		{222DDB25-305C-44B7-81CE-5B5DD6F1E473}.Debug|x86.Build.0 = Debug|Win32
+		{222DDB25-305C-44B7-81CE-5B5DD6F1E473}.Release|x64.ActiveCfg = Release|x64
+		{222DDB25-305C-44B7-81CE-5B5DD6F1E473}.Release|x64.Build.0 = Release|x64
+		{222DDB25-305C-44B7-81CE-5B5DD6F1E473}.Release|x86.ActiveCfg = Release|Win32
+		{222DDB25-305C-44B7-81CE-5B5DD6F1E473}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
